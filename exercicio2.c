@@ -14,7 +14,7 @@ int main(){
 
     resultado = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
 
-    printf("A distancia é de %.4f", resultado);
-    
+    printf("A distancia eh de %.4f", resultado);
+
     return 0;
 }
